@@ -12,7 +12,7 @@ Querylet::Output::Excel::XLS - output querylet results to an Excel file
 
 version 0.12
 
- $Id: XLS.pm,v 1.3 2004/12/16 16:00:07 rjbs Exp $
+ $Id$
 
 =cut
 
