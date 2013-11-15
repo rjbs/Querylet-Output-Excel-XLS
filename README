@@ -1,4 +1,0 @@
-README for Querylet-Output-Excel-XLS
-
-This distribution provides a plugin to output Querylet results as an Excel file
-using Spreadsheet::WriteExcel
