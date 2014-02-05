@@ -1,6 +1,8 @@
 Revision history for Querylet-Output-Excel-XLS
 
 {{$NEXT}}
+
+0.134     2014-02-04 22:37:22-05:00 America/New_York
         - fix github links
 
 0.133     2013-11-14 22:50:34 America/New_York
