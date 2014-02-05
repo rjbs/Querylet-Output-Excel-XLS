@@ -1,6 +1,7 @@
 use strict;
 use warnings;
 package Querylet::Output::Excel::XLS;
+
 use parent qw(Querylet::Output);
 # ABSTRACT: output querylet results to an Excel file
 
